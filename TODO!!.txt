@@ -1,0 +1,4 @@
+Ways to stand out are to move your notebook into a web application, and blend your code into a class that can be easily used with a web application.
+ You could package your recommendation engine code to be pip installed by others.
+ You could also build out a content based recommendation system using your NLP skills.
+ There are lots of ways to go beyond the rubric for this project!
