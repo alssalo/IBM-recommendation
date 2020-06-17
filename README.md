@@ -2,10 +2,9 @@
 
 ## Introduction
 
-For this project you will analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles you think they will like. 
+For this project we will analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles we think they will like. 
 
-In order to determine which articles to show to each user, you will be performing a study of the data available on the IBM Watson Studio platform. You can create your own account to become a part of their community, and get a better understanding of their data by creating an account on the platform here.
-Your Tasks
+In order to determine which articles to show to each user, you will be performing a study of the data available on the IBM Watson Studio platform.
 
 Your project will be divided into the following tasks:
 
